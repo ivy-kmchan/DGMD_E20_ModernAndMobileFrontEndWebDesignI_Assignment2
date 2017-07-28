@@ -1,0 +1,42 @@
+Course: DGMD E-20 Fall 2015
+Name: Ka Man Chan
+Assignment: Assignment 2
+
+- My form URL: http://kamanc.siteground.net/KaManTravel_contact.html
+
+- Floats are demonstrated here:
+	1.
+	URL: http://kamanc.siteground.net/index.html
+	HTML: Line 28, 35, 42
+	CSS: Float--Line 91; Clear--Line 33
+
+	2. 
+	URL: http://kamanc.siteground.net/KaManTravel_contact.html
+	HTML: Line 33, 59
+	CSS: Float--Line 145, 150; Clear--Line 33
+
+- Positioning (Fixed) is demonstrated here:
+	1.
+	URL: http://kamanc.siteground.net/index.html
+	HTML: Line 14
+	CSS: Line 45
+
+	2.
+	URL: http://kamanc.siteground.net/index.html
+	HTML: Line 51
+	CSS: Line 213
+
+- The 3 CSS3 techniques I used on the site are
+	1. 
+	Web fonts
+	CSS: Line 15, 20, 25
+
+	2. 
+	Rounded corners
+	CSS: Line 108, 179
+
+	3. 
+	Box/drop shadows
+	CSS: Line 109-111, 180-182
+
+
